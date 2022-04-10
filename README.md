@@ -3,17 +3,34 @@
 ## Overview 
 A DAO for so justice funding and awarness.
 
+## Req
+
+### Software 
+- SvelteKit
+    - Tailwind 
+    - web3js 
+    - Typescript
+    - Github Actions 
+    - Twitter API 
+    - Rediit API 
+- Solidity 
+    - HardHat
+    - OpenZepplin
+- Hosting 
+    - Fleek
+    - IPFS
+    - Cloudfare domain #but any service will work 
+
+
 
 
 ## Info
 
 ```
-email (personal)  : stephen.d.okita@gmail.com
 email (business)  : me@danielokita.com
 twitter           : @theArctesian
 discord           : 0xArctesian#8968
 telegram          : @TheArctesian
-signal            : @Arctesian
 ```
 ## <span style="color: red"> PSA!! </span>
 
