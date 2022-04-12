@@ -12,7 +12,7 @@ A DAO for so justice funding and awarness.
     - Typescript
     - Github Actions 
     - Twitter API 
-    - Rediit API 
+    - Redit API 
 - Solidity 
     - HardHat
     - OpenZepplin
@@ -50,7 +50,6 @@ A DAO for so justice funding and awarness.
 ## Info
 
 ```
-email (business)  : me@danielokita.com
 twitter           : @theArctesian
 discord           : 0xArctesian#8968
 telegram          : @TheArctesian
